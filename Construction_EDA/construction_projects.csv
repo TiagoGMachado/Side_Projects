@@ -1,0 +1,6 @@
+project,type,estimated_cost,actual_cost,estimated_duration_months,actual_duration_months,location
+Building A,Residential,500000,520000,12,13,SP
+Bridge B,Infrastructure,1200000,1300000,24,26,RJ
+Mall C,Commercial,800000,780000,18,17,MG
+Highway D,Infrastructure,3000000,3100000,36,38,BA
+School E,Institutional,600000,590000,14,15,RS
